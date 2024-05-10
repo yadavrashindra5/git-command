@@ -14,3 +14,9 @@ const multiple = (a, b) => {
 };
 
 multiple(8, 9);
+
+const divide=(a,b)=>{
+    return a/b;
+}
+
+divide(9,3);
