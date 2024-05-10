@@ -4,6 +4,11 @@ const add = (a, b) => {
 
 add(9, 8);
 
+const substract = (a, b) => {
+  return a - b;
+};
+
+substract(9, 1);
 const multiple = (a, b) => {
   return a * b;
 };
