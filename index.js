@@ -3,3 +3,9 @@ const add = (a, b) => {
 };
 
 add(9, 8);
+
+const multiple = (a, b) => {
+  return a * b;
+};
+
+multiple(8, 9);
