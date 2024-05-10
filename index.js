@@ -9,3 +9,8 @@ const substract = (a, b) => {
 };
 
 substract(9, 1);
+const multiple = (a, b) => {
+  return a * b;
+};
+
+multiple(8, 9);
