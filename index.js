@@ -26,3 +26,8 @@ const sub = () => {
 };
 
 sub();
+divide(9,3);
+
+const add1=(a,b,c)=>{
+  return a+b+c;
+}
