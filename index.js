@@ -15,8 +15,14 @@ const multiple = (a, b) => {
 
 multiple(8, 9);
 
-const divide=(a,b)=>{
-    return a/b;
-}
+const divide = (a, b) => {
+  return a / b;
+};
 
-divide(9,3);
+divide(9, 3);
+
+const sub = () => {
+  console.log("sub");
+};
+
+sub();
