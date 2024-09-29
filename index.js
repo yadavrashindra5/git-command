@@ -35,3 +35,4 @@ const add1 = (a, b, c) => {
 function xyz() {
   console.log("Hello");
 }
+console.log("commit1");
