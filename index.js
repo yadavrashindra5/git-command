@@ -32,11 +32,3 @@ const add1 = (a, b, c) => {
   return a + b + c;
 };
 
-function xyz() {
-  console.log("Hello");
-const add1 = (a, b, c) => {
-  return a + b + c;
-};
-function abc() {
-  console.log("Hello");
-}
