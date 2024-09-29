@@ -26,8 +26,11 @@ const sub = () => {
 };
 
 sub();
-divide(9,3);
+divide(9, 3);
 
-const add1=(a,b,c)=>{
-  return a+b+c;
+const add1 = (a, b, c) => {
+  return a + b + c;
+};
+function abc() {
+  console.log("Hello");
 }
