@@ -13,3 +13,5 @@ console.log("feature 1 commit 3")
 
 console.log("feature 1 commit 4")
 console.log("feature 1 commit 5")
+
+console.log("feature 1 commit 6");
